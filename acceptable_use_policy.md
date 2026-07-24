@@ -1,4 +1,4 @@
-# ⚖️ Enterprise Acceptable Use Policy (AUP) & Operational Boundaries
+# ⚖️ Enterprise Acceptable Use Policy (AUP) & Privacy Governance Blueprint
 
 **Project:** Universal Frequency Reader (UFR-1) Ingestion Infrastructure  
 **Classification:** Public Security Charter  
@@ -6,9 +6,29 @@
 
 ---
 
-### 📋 Policy Statement
+### 📋 Policy Statement & Privacy Preamble
 
-To satisfy enterprise risk management architecture and enforce systemic data sovereignty, the ingestion, processing, and utilization of human biophysical and wave-resonance data must adhere to strict operational boundaries. This document defines the legally acceptable applications of the UFR-1 system and outlines explicit, non-negotiable prohibited use cases to mitigate civil liberties liabilities and privacy overreach.
+As frequency-reading devices become portable and passive, humanity faces an unprecedented threat to absolute privacy. The ingestion, processing, and utilization of human biophysical and wave-resonance data must adhere to strict, unalterable operational boundaries. 
+
+This document serves as the master legal blueprint and acceptable use framework required to protect individual sovereignty, mitigate civil liberties liabilities, and prevent corporate or state overreach before widespread platform deployment.
+
+---
+
+### 🏛️ The Three Pillars of Frequency Law
+
+To establish a baseline for ethical deployment, all infrastructure utilization is legally bound by three foundational pillars of biophysical privacy:
+
+#### 1. The Right to Frequency Anonymity
+* **The Rule**: Public infrastructure mesh networks cannot scan ambient environmental spaces to identify citizens without an active, judicially signed probable-cause warrant.
+* **The Intent**: Prevents governments, intelligence bodies, or corporate entities from tracking political protests, religious gatherings, or daily commutes in total darkness.
+
+#### 2. Physical Data Decoupling
+* **The Rule**: Raw physical frequency data cannot be converted into or stored within a centralized digital master registry.
+* **The Intent**: Guarantees that if a network database is breached, malicious actors will only encounter randomized, encrypted hash strings, making it mathematically impossible to "re-create" or target an individual's physical biological frequency.
+
+#### 3. Medical Frequency Sovereignty
+* **The Rule**: Employers, private corporations, and insurance providers are strictly banned from scanning or auditing a person's baseline frequency to evaluate stress levels, cellular anomalies, or underlying health indicators.
+* **The Intent**: Prevents systematic biometric discrimination in hiring practices and insurance underwriting based on real-time physiological data.
 
 ---
 
@@ -16,8 +36,8 @@ To satisfy enterprise risk management architecture and enforce systemic data sov
 
 The profiling and verification of a patient's genetic resonance or bio-electrical waveform baseline is treated strictly as Protected Health Information (PHI).
 
-* **Zero-Knowledge Architecture**: The system is legally barred from matching raw biophysical wave signatures with standard civil identity indexes (e.g., HR files, corporate directories, state identity databases).
-* **Localized Verification**: Medical profiles must be handled exclusively through a zero-knowledge architecture. Edge hardware scans the wave profile, verifies cellular or DNA anomalies locally, and outputs an un-linkable, anonymized token. Hospital networks are strictly prohibited from maintaining a centralized, searchable database of raw human frequency bands.
+* **Zero-Knowledge Architecture**: In strict compliance with HIPAA and the Genetic Information Nondiscrimination Act (GINA), the system is legally barred from matching raw biophysical wave signatures with standard civil identity indexes.
+* **Localized Verification**: Medical profiles must be handled exclusively through a zero-knowledge architecture. Edge hardware scans the wave profile, verifies cellular or DNA anomalies locally, and outputs an un-linkable, anonymized token. Hospital networks are prohibited from maintaining a searchable database of raw human frequency bands.
 
 ---
 
