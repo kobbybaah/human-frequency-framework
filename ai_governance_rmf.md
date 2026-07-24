@@ -48,6 +48,24 @@ For law enforcement applications, a frequency profile must withstand rigorous co
 * **The Digital Polygraph Isolation Standard**: Similar to standard forensic DNA booking, a suspect's frequency profile is collected in a controlled, radiofrequency-shielded interrogation environment. 
 * **Immutable Blockchain Timestamps**: Upon sensor capture, the raw wave metadata is automatically hashed and permanently logged onto a permissioned, immutable cryptographic ledger. This provides a tamper-proof digital timestamp proving the baseline was not modified, fabricated, or contaminated by investigators post-collection.
 
+
+---
+
+### 📦 AI Model Bill of Materials (AIBOM) & Automated Red-Teaming Matrix
+
+To guarantee strict compliance with modern high-risk algorithmic mandates, the UFR-1 predictive core enforces a transparent, auditable Model Bill of Materials alongside continuous adversarial red-teaming protocols.
+
+#### 1. The AI Bill of Materials (AIBOM) Architecture
+The system architecture tracks and documents every algorithmic dependency to mitigate supply-chain vulnerabilities and malicious model-tampering.
+* **Dataset Traceability**: All contrastive learning models must trace their training baseline sources back to verified, anonymized open-access genomic datasets. No synthetic or non-consensual real-world data profiles may be injected into the base model.
+* **Weight Cryptography & Hashing**: The specific mathematical model weights for the LSTM intent classifiers and Deep Autoencoders are cryptographically signed. If a malicious update tries to alter a model weight at an edge node, the system flags a cryptographic mismatch and halts inferencing instantly.
+* **Dependency Monitoring**: Automated scanners continuously log all open-source dependencies (e.g., specific PyTorch or TensorFlow micro-libraries), auto-blocking deployment if a known CVE (Common Vulnerabilities and Exposures) risk is flagged in the codebase.
+
+#### 2. Automated Continuous Red-Teaming (Adversarial Defenses)
+To ensure the machine cannot be tricked or bypassed by advanced bad actors, automated testing suites constantly launch simulated attacks against the classification models.
+* **Evasion Attack Testing (Spoof Simulations)**: The system utilizes automated red-teaming scripts to attempt to feed the AI complex, mathematically generated noise floors. If the model misclassifies a simulated spoof as a verified human identity, the instance is quarantined, and the weights are flagged for immediate retraining.
+* **Inversion Attack Testing (Privacy Breaching)**: Red-team algorithms simulate adversarial reverse-engineering, trying to reconstruct a person’s physical DNA structure from a captured 256-bit alphanumeric hash key. The system enforces a strict zero-reconstruction threshold; if a model leaks baseline physical parameters during testing, the node automatically executes an emergency firmware disconnect.
+
 ---
 
 ### ⚖️ Acceptable Use Policy (AUP) & Legal Mapping Matrix
@@ -65,6 +83,8 @@ To satisfy enterprise risk architecture requirements, the ingestion and utilizat
 #### 🚫 3. Prohibited Use Cases (Absolute Boundaries)
 * **Pre-Employment Screening & Insurance Underwriting**: Commercial entities are completely barred from scanning an applicant or policyholder’s baseline frequency to check for stress vulnerabilities, underlying illnesses, or neurological traits. 
 * **Non-Warranted Public Mass Surveillance**: Deploying ambient smart-city mesh sensors to identify or log civilian movements without an active, judicially signed probable-cause warrant constitutes a critical breach of acceptable use protocols and triggers automated network node suspension.
+
+
 
 ---
 
