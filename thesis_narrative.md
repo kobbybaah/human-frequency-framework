@@ -5,7 +5,7 @@
 
 ---
 
-### The Strategic Imperative
+### 📋 The Strategic Imperative
 
 Modern global security infrastructure is failing due to a fundamental architectural vulnerability: our systems rely on static, digital, replicable data. In an era dominated by advanced generative artificial intelligence, traditional biometric authentication vectors—such as facial geometries, voice prints, and legacy fingerprint hashes—are no longer secure. They can be cloned, spoofed, and reverse-engineered with trivial computational power. 
 
@@ -13,7 +13,7 @@ This whitepaper presents a definitive alternative: **The Human Frequency Bio-Map
 
 ---
 
-### The Core Mechanism: The Bio-Electrical Symphony
+### 🎼 The Core Mechanism: The Bio-Electrical Symphony
 
 Every physical object in the universe possesses a natural resonant frequency dictated by its atomic and structural properties. The human body is a highly complex, dynamic bio-electrical system. It comprises 206 skeletal structures of varying densities, shifting fluid mass volumes, distinct cardiac electrical pathways, and continuous neurological firing rates. When functioning in tandem, these components radiate a collective, aggregate electromagnetic and acoustic signature—a unique "vibrational chord."
 
@@ -23,7 +23,7 @@ The ultimate layer of precision in this system is anchored at the genetic level.
 
 ---
 
-### Enterprise Transformations and Global Crisis Interventions
+### 🚀 Enterprise Transformations and Global Crisis Interventions
 
 When deployed across modern digital and physical infrastructure, this protocol operates as an objective, empirical truth-engine, eliminating human bias and clinical guesswork across four critical sectors:
 
@@ -41,13 +41,13 @@ The framework offers immediate consumer and humanitarian utility through targete
 
 ---
 
-### Data Governance and Privacy Sovereignty
+### 🔒 Data Governance and Privacy Sovereignty
 
 To withstand rigorous regulatory scrutiny and comply with modern data privacy mandates, the framework rejects the use of centralized master databases. Raw biological frequencies are never permanently stored or transmitted across open networks. Instead, the real-time wave telemetry is processed at the edge and instantly encrypted into a unique, one-way 256-bit alphanumeric hash string. If a network node is breached, the data is entirely useless to a malicious actor, as a physical human frequency cannot be reverse-engineered from a static digital hash file. This ensures absolute privacy sovereignty while maintaining airtight authentication integrity.
 
 ---
 
-### Collaboration and Strategic Alignment
+### 🤝 Collaboration and Strategic Alignment
 
 This architecture is currently positioned as a high-level conceptual framework and strategic blueprint, mapping out the intersection of quantum biophysics, automated governance, and predictive enterprise security. 
 
@@ -58,6 +58,6 @@ This architecture is currently positioned as a high-level conceptual framework a
 ### 📬 Strategic Inquiries & Contact
 
 * **Principal Architect:** Kobby Baah  
-* **Secure Operations Hub:** [://github.com](https://://github.com/kobbybaah)  
-* **Communications Interface:** * Email: kobby.llc@gmail.com & LinkedIn:www.linkedin.com/in/kobby-baah *
-* **Geospatial Location:** Baltimore, Maryland, USA 
+* **Secure Operations Hub:** [github.com/kobbybaah](https://github.com)  
+* **Communications Interface:** [kobby.llc@gmail.com](mailto:kobby.llc@gmail.com) & [linkedin.com/in/kobby-baah](https://linkedin.com)  
+* **Geospatial Location:** Baltimore, Maryland, USA  
