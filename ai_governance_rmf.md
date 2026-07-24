@@ -34,6 +34,40 @@ This document establishes the administrative controls, data lifecycle protection
 
 ---
 
+## 🔒 5. Regulatory Compliance & Chain-of-Custody Ingestion
+
+To maintain absolute data integrity and legally protect patient sovereignty, the collection of reference baseline frequencies follows strict regulatory isolation protocols.
+
+### Medical Record Ingestion (Healthcare Sector)
+The collection of a patient’s health and DNA frequency baseline is treated as highly sensitive protected health information (PHI).
+* **HIPAA/GINA Cryptographic Isolation**: Compliance with HIPAA and the Genetic Information Nondiscrimination Act (GINA) mandates that a patient's raw frequency profile cannot be stored alongside their civil identity (name, Social Security number). 
+* **Zero-Knowledge Air-Gapped Registries**: Medical baselines are processed through a zero-knowledge architecture. The clinical software reads the wave profile, verifies cellular health parameters locally, and outputs an isolated, non-identifiable medical token. Hospitals do not store a searchable database of citizens' raw DNA frequencies; they only match a presenting patient's live frequency against their localized, encrypted medical history.
+
+### Forensic Baseline Collection (Criminal Justice Sector)
+For law enforcement applications, a frequency profile must withstand rigorous courtroom cross-examination regarding sample tampering and chain of custody.
+* **The Digital Polygraph Isolation Standard**: Similar to standard forensic DNA booking, a suspect's frequency profile is collected in a controlled, radiofrequency-shielded interrogation environment. 
+* **Immutable Blockchain Timestamps**: Upon sensor capture, the raw wave metadata is automatically hashed and permanently logged onto a permissioned, immutable cryptographic ledger. This provides a tamper-proof digital timestamp proving the baseline was not modified, fabricated, or contaminated by investigators post-collection.
+
+---
+
+### ⚖️ Acceptable Use Policy (AUP) & Legal Mapping Matrix
+
+To satisfy enterprise risk architecture requirements, the ingestion and utilization of biophysical data must adhere to a strict legal boundary framework, shifting administrative oversight into quantifiable risk mitigation controls.
+
+#### 🏥 1. Healthcare Data Isolation (HIPAA & GINA Compliance)
+* **Risk Mapping**: Direct ingestion of genomic or bio-electrical wave oscillations introduces severe liability under the Genetic Information Nondiscrimination Act (GINA) and HIPAA regulations regarding Protected Health Information (PHI).
+* **Control Enforcement**: The system strictly forbids matching raw biophysical profiles with standard identity tables (e.g., corporate directories, HR records, civil databases). Medical baselines are handled via Zero-Knowledge Proofs (ZKP). The local architecture evaluates cellular anomaly parameters at the edge and yields an un-linkable, anonymized medical token. Hospital databases are prohibited from maintaining a centralized, searchable index of raw human frequencies.
+
+#### 🕵️‍♂️ 2. Forensic Chain-of-Custody & Judicial Standards
+* **Risk Mapping**: Evidentiary baseline submissions risk dismissal or contamination claims in court if physical capture environments are unverified or subject to state fabrication.
+* **Control Enforcement**: Suspect frequency booking must be performed exclusively within radiofrequency-shielded interrogation facilities to achieve complete signal isolation. The instant an analog profile is recorded, its metadata is irreversibly hashed and stamped onto an immutable cryptographic ledger. This enforces a mathematically verifiable chain of custody, ensuring that no investigator or bad actor can alter, mock, or backdate a baseline biometric profile post-collection.
+
+#### 🚫 3. Prohibited Use Cases (Absolute Boundaries)
+* **Pre-Employment Screening & Insurance Underwriting**: Commercial entities are completely barred from scanning an applicant or policyholder’s baseline frequency to check for stress vulnerabilities, underlying illnesses, or neurological traits. 
+* **Non-Warranted Public Mass Surveillance**: Deploying ambient smart-city mesh sensors to identify or log civilian movements without an active, judicially signed probable-cause warrant constitutes a critical breach of acceptable use protocols and triggers automated network node suspension.
+
+---
+
 ### 🛡️ Core Trustworthy AI Characteristics Matrix
 
 | Characteristic | Operational Enforcement Protocol |
