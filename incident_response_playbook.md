@@ -6,7 +6,7 @@
 
 ---
 
-### Executive Security Mandate
+### 📋 Executive Security Mandate
 
 Because the UFR-1 architecture processes non-reversible 256-bit biophysical and genomic hashes, any system compromise directly impacts national security, forensic integrity, and civilian privacy. This playbook defines the automated and administrative controls triggered during an adversarial attack or system anomaly.
 
@@ -17,7 +17,7 @@ Because the UFR-1 architecture processes non-reversible 256-bit biophysical and 
 The enterprise defensive team maintains active logging mechanisms across all smart-city mesh checkpoints to catch anomalies before systemic execution.
 
 * **Adversarial Input Detection (Model Poisoning)**: If an attacker attempts to inject corrupted electromagnetic noise to spoof an identity or falsify an emotional state, edge anomaly classifiers track the baseline Signal-to-Noise Ratio (SNR).
-* **Automated Alert Trigger**: Any SNR drop below $95\%$ or a surge in localized decryption failures instantly triggers a Category 1 (High Severity) alert to the Security Operations Center (SOC).
+* **Automated Alert Trigger**: Any SNR drop below **95%** or a surge in localized decryption failures instantly triggers a Category 1 (High Severity) alert to the Security Operations Center (SOC).
 
 ---
 
@@ -52,3 +52,4 @@ To encourage ethical hacking and safe security research, the enterprise publishe
 
 #### 3. Reporting and Remediation SLAs
 * Security flaws must be reported securely via our designated encryption channels. The GRC team guarantees a triage response within **48 business hours**, and patches will be deployed across edge nodes within **15 calendar days** of validation.
+
