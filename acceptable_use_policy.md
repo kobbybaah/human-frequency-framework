@@ -36,8 +36,11 @@ To establish a baseline for ethical deployment, all infrastructure utilization i
 
 The profiling and verification of a patient's genetic resonance or bio-electrical waveform baseline is treated strictly as Protected Health Information (PHI).
 
-* **Zero-Knowledge Architecture**: In strict compliance with HIPAA and the Genetic Information Nondiscrimination Act (GINA), the system is legally barred from matching raw biophysical wave signatures with standard civil identity indexes.
-* **Localized Verification**: Medical profiles must be handled exclusively through a zero-knowledge architecture. Edge hardware scans the wave profile, verifies cellular or DNA anomalies locally, and outputs an un-linkable, anonymized token. Hospital networks are prohibited from maintaining a searchable database of raw human frequency bands.
+#### Zero-Knowledge Architecture
+In strict compliance with HIPAA and the Genetic Information Nondiscrimination Act (GINA), the system is legally barred from matching raw biophysical wave signatures with standard civil identity indexes.
+
+#### Localized Verification
+Medical profiles must be handled exclusively through a zero-knowledge architecture. Edge hardware scans the wave profile, verifies cellular or DNA anomalies locally, and outputs an un-linkable, anonymized token. Hospital networks are prohibited from maintaining a searchable database of raw human frequency bands.
 
 ---
 
@@ -45,8 +48,11 @@ The profiling and verification of a patient's genetic resonance or bio-electrica
 
 For criminal justice applications, a biometric frequency profile must withstand rigorous cross-examination regarding sample contamination, tampering, and chain of custody.
 
-* **Signal Isolation Environments**: Suspect frequency booking must be performed exclusively within radiofrequency-shielded interrogation facilities to eliminate external environmental noise contamination.
-* **Immutable Ledger Stamping**: The instant an analog baseline is recorded, its metadata is irreversibly hashed and stamped onto a permissioned, immutable cryptographic ledger. This enforces a mathematically verifiable chain of custody, ensuring that no investigator, administrative body, or external actor can alter, manipulate, or backdate a baseline biometric profile post-collection.
+#### Signal Isolation Environments
+Suspect frequency booking must be performed exclusively within radiofrequency-shielded interrogation facilities to eliminate external environmental noise contamination.
+
+#### Immutable Ledger Stamping
+The instant an analog baseline is recorded, its metadata is irreversibly hashed and stamped onto a permissioned, immutable cryptographic ledger. This enforces a mathematically verifiable chain of custody, ensuring that no investigator, administrative body, or external actor can alter, manipulate, or backdate a baseline biometric profile post-collection.
 
 ---
 
@@ -54,5 +60,8 @@ For criminal justice applications, a biometric frequency profile must withstand 
 
 Any violation of the following directives constitutes a critical breach of this policy, leading to immediate system-wide node revocation and legal audit escalation:
 
-* **Pre-Employment Screening & Insurance Underwriting**: Commercial entities, private corporations, and insurance underwriters are completely barred from scanning an applicant or policyholder’s baseline frequency to check for underlying illnesses, chronic stress vulnerabilities, genetic anomalies, or neurological traits.
-* **Non-Warranted Public Mass Surveillance**: Deploying ambient smart-city mesh sensors to passively sweep, scan, or log the movements of civilians in public spaces without an active, judicially signed probable-cause warrant is strictly prohibited. If an internal operator attempts an unauthorized mass sweep, the localized network nodes are architected to trigger an automated, defensive software suspension.
+#### Pre-Employment Screening & Insurance Underwriting
+Commercial entities, private corporations, and insurance underwriters are completely barred from scanning an applicant or policyholder’s baseline frequency to check for underlying illnesses, chronic stress vulnerabilities, genetic anomalies, or neurological traits.
+
+#### Non-Warranted Public Mass Surveillance
+Deploying ambient smart-city mesh sensors to passively sweep, scan, or log the movements of civilians in public spaces without an active, judicially signed probable-cause warrant is strictly prohibited. If an internal operator attempts an unauthorized mass sweep, the localized network nodes are architected to trigger an automated, defensive software suspension.
