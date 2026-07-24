@@ -17,9 +17,9 @@ This repository serves as a conceptual blueprint and governance study for this t
 
 ## 🏛️ Master Framework & Governance Directory
 
-To evaluate the engineering viability, regulatory compliance, and defensive posture of this protocol, explore the dedicated structural blueprints below:
-
 *   [📖 Executive Research Thesis](./thesis_narrative.md) — The high-impact vision, societal problem-solving, and core philosophy designed for strategic stakeholders and executive evaluation.
-*   [🛠️ System Architecture & Tooling Stack](./technical_stack_and_tooling.md) — Detailed technical requirements mapping the machine's legacy synthesis (MRI/Spectroscopy) to active developer frameworks like PyTorch Contrastive Learning, LSTMs, and edge computing.
-*   [🏛️ Unified AI Governance & NIST RMF](./ai_governance_rmf.md) — Comprehensive organizational risk mitigation mapped under the **NIST AI RMF 1.0**, featuring federal regulatory alignments (HIPAA/GINA) and explicit Acceptable Use Policies (AUP).
+*   [🛠️ System Architecture & Tooling Stack](./technical_stack_and_tooling.md) — Detailed technical requirements mapping the machine's legacy synthesis to active developer frameworks like PyTorch Contrastive Learning, LSTMs, and edge computing.
+*   [🏛️ Unified AI Governance & NIST RMF](./ai_governance_rmf.md) — Comprehensive organizational risk mitigation mapped under the **NIST AI RMF 1.0**, featuring AIBOM supply-chain tracking and algorithmic demographic parity controls.
+*   [⚖️ Acceptable Use Policy (AUP)](./acceptable_use_policy.md) — The legal, ethical, and operational boundaries charter explicitly defining the Three Pillars of Frequency Law and prohibited surveillance limits.
 *   [🚨 Incident Response Playbook & VDP](./incident_response_playbook.md) — Active defensive runbooks aligned with **NIST SP 800-61** for model-poisoning containment, alongside a structured Vulnerability Disclosure Policy for independent security researchers.
+
