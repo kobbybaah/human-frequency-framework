@@ -22,12 +22,11 @@ This document establishes the administrative controls, data lifecycle protection
 
 #### 2. MAP (Context & Vulnerability Identification)
 * **The Twin Disambiguation Failure Risk**: If the AI model misidentifies identical twins due to noise-floor anomalies, the system flags a catastrophic forensic false-positive.
-* **The Intent-Misclassification Risk**: In self-defense verification, an algorithm might misinterpret a neurological trauma response as premeditated malice. The system maps this risk by enforcing a mandatory human-in-the-loop (HITL) review for all forensic outputs before court submission.
+* **The Intent-Misclassification Risk**: In self-defense verification, an algorithm might misinterpret a neurological trauma response as premeditated malice. The system maps this risk by enforcing a mandatory human-in-the-loop (HITL) review for all forensic outcomes before court submission.
 
 #### 3. MEASURE (Quantitative Assessment & Metrics)
 * **Drift & Accuracy Benchmarks**: The predictive model must maintain a verified **≥ 99.8%** accuracy rating across diverse bone-density, age, and biometric data classes to prevent systemic demographic discrimination.
 * **Signal-to-Noise Ratio (SNR) Thresholds**: Edge nodes must automatically drop data packets if ambient electromagnetic interference drops the scanning confidence score below **95%**, preventing the ingestion of corrupted data inputs.
-
 
 #### 4. MANAGE (Active Risk Mitigation & System Security)
 * **Cryptographic Data Siloing**: Raw biophysical wave telemetry must be processed completely at the edge. The system strictly rejects centralized model ingestion; telemetry is transformed into a non-reversible 256-bit alphanumeric hash before network transport.
@@ -88,6 +87,7 @@ The collection of a patient’s health and DNA frequency baseline is treated as 
 #### 🕵️‍♂️ 2. Forensic Baseline Collection (Criminal Justice Sector)
 For law enforcement applications, a frequency profile must withstand rigorous courtroom cross-examination regarding sample tampering and chain of custody.
 * **The Digital Polygraph Isolation Standard**: Similar to standard forensic DNA booking, a suspect's frequency profile is collected in a controlled, radiofrequency-shielded interrogation environment.
+.
 
 
 #### 🕵️‍♂️ 2. Forensic Baseline Collection (Criminal Justice Sector)
