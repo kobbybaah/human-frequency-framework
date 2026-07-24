@@ -88,3 +88,8 @@ The collection of a patient’s health and DNA frequency baseline is treated as 
 For law enforcement applications, a frequency profile must withstand rigorous courtroom cross-examination regarding sample tampering and chain of custody.
 * **The Digital Polygraph Isolation Standard**: Similar to standard forensic DNA booking, a suspect's frequency profile is collected in a controlled, radiofrequency-shielded interrogation environment.
 
+
+#### 🕵️‍♂️ 2. Forensic Baseline Collection (Criminal Justice Sector)
+For law enforcement applications, a frequency profile must withstand rigorous courtroom cross-examination regarding sample tampering and chain of custody.
+* **The Digital Polygraph Isolation Standard**: Similar to standard forensic DNA booking, a suspect's frequency profile is collected in a controlled, radiofrequency-shielded interrogation environment.
+
