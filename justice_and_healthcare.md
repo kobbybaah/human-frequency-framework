@@ -19,6 +19,10 @@ In criminal law, proving identity and true intent is notoriously difficult. Freq
 
 * **The Frequency Alibi**: Investigators can download ambient room frequency logs from a crime scene. The system can verify exactly who was present and log their precise emotional state (e.g., cold calculation vs. extreme panic) at the exact timestamp of the incident.
 * **Determining Competency and Intent**: Courts can utilize historical frequency archives to determine if an action was premeditated or a tragic byproduct of an involuntary psychological breakdown, ensuring the right people face the correct legal outcomes.
+* 
+* **Eradicating Sample Contamination**: Traditional physical DNA evidence (hair, skin cells) can be easily contaminated or accidentally transferred to a crime scene. The UFR-1 solves this by verifying that an individual’s *active, live DNA frequency* was dynamically radiating in the space at a specific timestamp, linking physical presence directly to the timeline of the event.
+* **The Twin Disambiguation Paradox**: Identical twins share identical chemical DNA sequences, which often paralyzes modern forensic tracking. However, because the system factors in unique bone micro-fractures, real-time bio-electrical activity, and emotional baselines, it successfully differentiates the individual "vibrational chords" of identical twins.
+* **Objective Verification of Self-Defense**: The system provides an empirical method to differentiate between premeditated malice and genuine self-defense. By auditing the emotional spectrum embedded within the unique DNA identifier during an incident, courts can verify if a subject's biology was locked in a pure "survival/fight-or-flight" panic bandwidth or a cold, calculated state of intent.
 
 ## 🏥 4. Quantifiable Recovery and Release Metrics
 Deciding when a patient is fit to leave a psychiatric facility currently relies on subjective clinical interviews.
